@@ -43,7 +43,3 @@ Treatment is the stop of sponsored ads in Google starting from week 10.
 
 ## Control
 Clicks from Yahoo, Bing and Ask are used as control
-
-# First  Difference  Estimate
-
-Using the data of only Google first difference estimate is calculated.
